@@ -39,16 +39,16 @@ An HTML page for a birthday invitation that includes:
 
 ## 📂 Project Structure
 html-portfolio/
-│
-├── index.html # Main portfolio page
-│
-├── public/ # Public directory containing all pages
-│ ├── about.html # About me page
-│ ├── contact.html # Contact page
-│ ├── movie-ranking.html # Movie ranking project
-│ └── birthday-invite.html # Birthday invitation project
-│
-└── assets/ # Images and other resources
+|
+|-- index.html # Main portfolio page
+|
+|-- public/ # Public directory containing all pages
+| |-- about.html # About me page
+| |-- contact.html # Contact page
+| |-- movie-ranking.html # Movie ranking project
+| |-- birthday-invite.html # Birthday invitation project
+|
+|-- assets/ # Images and other resources
 
 
 ## 🎯 Project Goal
