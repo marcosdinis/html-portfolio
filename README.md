@@ -38,6 +38,7 @@ An HTML page for a birthday invitation that includes:
 - GitHub Pages (for hosting)
 
 ## 📂 Project Structure
+```
 html-portfolio/
 |
 |-- index.html # Main portfolio page
@@ -49,7 +50,7 @@ html-portfolio/
 | |-- birthday-invite.html # Birthday invitation project
 |
 |-- assets/ # Images and other resources
-
+```
 
 ## 🎯 Project Goal
 
